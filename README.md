@@ -119,7 +119,7 @@ The following visualizations are used in the Power BI dashboard:
 ## Links and References
 - **[Dataset](https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/Ola_Bookings.csv)**
 - **[Power BI Dashboard](https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/ola%20bookings%20project.pbix)**
-- **[SQL Queries Link]("C:\Users\nithi\Dropbox\sql,queries.sql")**
+- **[SQL Queries Link](C:\Users\nithi\Dropbox\sql,queries.sql)**
 
 
 ## Suggestions for Improvements
