@@ -117,8 +117,8 @@ The following visualizations are used in the Power BI dashboard:
 - Canceled Rides Insights - Separate bar charts for cancellations by customers and drivers, highlighting the main reasons.
 
 ## Links and References
-- **[Dataset]((https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/Ola_Bookings.csv))**
-- **[Power BI Dashboard]((https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/ola%20bookings%20project.pbix))**
+- **[Dataset](https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/Ola_Bookings.csv)**
+- **[Power BI Dashboard](https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/ola%20bookings%20project.pbix)**
 - **[SQL Queries Link]("C:\Users\nithi\Dropbox\sql,queries.sql")**
 
 
