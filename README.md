@@ -27,29 +27,29 @@ Ride Distance, Customer Ratings, Driver Ratings
 
 - Revenue by Payment Method:
 
-- Cash: ₹4M
+  - Cash: ₹4M
 
-- UPI, Credit Card, Debit Card: Slightly below ₹1M each.
+  - UPI, Credit Card, Debit Card: Slightly below ₹1M each.
 
 - Top 5 Customers by Total Booking Value:
 
-- CID836942: ₹3.8K
+  - CID836942: ₹3.8K
 
-- CID749265: ₹3.4K
+  - CID749265: ₹3.4K
 
 ### Cancellation Insights
 
 - Canceled Rides By Customers:
 
-- "Change of plans": 29.31%
+  - "Change of plans": 29.31%
 
-- "Driver asked to cancel": 15.38%
+  - "Driver asked to cancel": 15.38%
 
 - Canceled Rides By Drivers:
 
-- "Personal & Car related issues": 34.56%
+  - "Personal & Car related issues": 34.56%
 
-- "Customer-related issues": 29.12%
+  - "Customer-related issues": 29.12%
 
 ## SQL Queries Used
 
