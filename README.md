@@ -57,43 +57,48 @@ Ride Distance, Customer Ratings, Driver Ratings
 
  #1. Retrieve all successful bookings:
  
- Select * From Successful_Bookings;
+ SELECT * FROM Successful_Bookings;
  
  #2. Find the average ride distance for each vehicle type:
  
- Select * from ride_distance_for_each_vehicle;
- 
+ SELECT * FROM ride_distance_for_each_vehicle;
+
  #3. Get the total number of cancelled rides by customers:
  
- Select * from cancelled_rides_by_customers;
- 
+ SELECT * FROM cancelled_rides_by_customers;
+
  #4. List the top 5 customers who booked the highest number of rides:
  
- Select * from Top_5_Customers;
+ SELECT * FROM Top_5_Customers;
  
  #5. Get the number of rides cancelled by drivers due to personal and car-related issues:
  
- Select * from Rides_cancelled_by_Drivers_P_C_Issues;
+ SELECT * FROM Rides_cancelled_by_Drivers_P_C_Issues;
  
  #6. Find the maximum and minimum driver ratings for Prime Sedan bookings:
  
- Select * from Max_Min_Driver_Rating;
+ SELECT * FROM Max_Min_Driver_Rating;
  
  #7. Retrieve all rides where payment was made using UPI:
  
- Select * from UPI_Payment;
+ SELECT * FROM UPI_Payment;
  
  #8. Find the average customer rating per vehicle type:
  
- Select * from AVG_Cust_Rating;
+ SELECT * FROM AVG_Cust_Rating;
  
  #9. Calculate the total booking value of rides completed successfully:
  
- Select * from total_successful_ride_value;
+ SELECT * FROM total_successful_ride_value;
  
  #10. List all incomplete rides along with the reason:
  
- Select * from Incomplete_Rides_Reason;
+ SELECT * FROM Incomplete_Rides_Reason;
+
+### Explanation:
+- Each query is enclosed in triple backticks with the `sql` syntax to show the SQL code in a formatted block.
+- The queries are listed below the title `### Additional Queries`, each labeled with its number and description.
+
 
 ## Power BI Dashboard 
 
@@ -145,25 +150,3 @@ The following visualizations are used in the Power BI dashboard:
 |
 
 |-- README.md  # Project Documentation
-
-
-
-### SQL Queries
-
-Here are the queries used in the project:
-
-```sql
--- Example Query 1
-SELECT * FROM employees;
-
--- Example Query 2
-SELECT department, COUNT(*) 
-FROM employees 
-GROUP BY department;
-
--- Example Query 3
-UPDATE employees 
-SET salary = salary * 1.05 
-WHERE department = 'Sales';
-
-
