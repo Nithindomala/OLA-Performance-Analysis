@@ -112,8 +112,8 @@ The following visualizations are used in the Power BI dashboard:
 - Canceled Rides Insights - Separate bar charts for cancellations by customers and drivers, highlighting the main reasons.
 
 ## Links and References
-- **[Dataset]([https://your-dataset-link.com](https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/Ola_Bookings.csv))**
-- **[Power BI Dashboard]([https://your-dashboard-link.com](https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/ola%20bookings%20project.pbix))**
+- **[Dataset]((https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/Ola_Bookings.csv))**
+- **[Power BI Dashboard]((https://github.com/Nithindomala/OLA-Performance-Analysis/blob/main/ola%20bookings%20project.pbix))**
 - **[SQL Queries Link]("C:\Users\nithi\Dropbox\sql,queries.sql")**
 
 
@@ -133,13 +133,37 @@ The following visualizations are used in the Power BI dashboard:
 |   |-- ola_bookings.csv  # Cleaned dataset used for analysis
 
 |
+
 |-- sql_queries/
 |   |-- ola_analysis_queries.sql  # All SQL queries used
 
 |
+
 |-- dashboards/
 |   |-- ola_performance.pbix  # Power BI dashboard file
 
 |
+
 |-- README.md  # Project Documentation
+
+
+
+### SQL Queries
+
+Here are the queries used in the project:
+
+```sql
+-- Example Query 1
+SELECT * FROM employees;
+
+-- Example Query 2
+SELECT department, COUNT(*) 
+FROM employees 
+GROUP BY department;
+
+-- Example Query 3
+UPDATE employees 
+SET salary = salary * 1.05 
+WHERE department = 'Sales';
+
 
