@@ -72,12 +72,10 @@ The following visualizations are used in the Power BI dashboard:
 - Canceled Rides Insights - Separate bar charts for cancellations by customers and drivers, highlighting the main reasons.
 
 ## Links and References
+- **[Dataset](https://your-dataset-link.com)**
+- **[Power BI Dashboard](https://your-dashboard-link.com)**
+- **[SQL Queries Link](https://github.com/yourusername/sql-queries)**
 
-- Dataset
-
-- Power BI Dashboard
-
-- Project Repository
 
 ## Suggestions for Improvements
 
